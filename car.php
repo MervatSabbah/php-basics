@@ -30,5 +30,3 @@ $carObject->setCarModel(2020);
 echo $carObject->getCarModel();
 
 echo $carObject->color;
-
-echo 'the end of this day';
